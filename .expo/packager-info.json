@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://vv-uwb.psst54.samplepage.exp.direct",
+  "packagerNgrokUrl": "https://packager.vv-uwb.psst54.samplepage.exp.direct",
+  "ngrokPid": 38540,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
